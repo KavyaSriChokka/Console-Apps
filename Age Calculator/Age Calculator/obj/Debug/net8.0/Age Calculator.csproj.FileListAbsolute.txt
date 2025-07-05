@@ -1,0 +1,14 @@
+C:\Users\KAVYA SRI\Dotnet Console Apps\Age Calculator\Age Calculator\bin\Debug\net8.0\Age Calculator.exe
+C:\Users\KAVYA SRI\Dotnet Console Apps\Age Calculator\Age Calculator\bin\Debug\net8.0\Age Calculator.deps.json
+C:\Users\KAVYA SRI\Dotnet Console Apps\Age Calculator\Age Calculator\bin\Debug\net8.0\Age Calculator.runtimeconfig.json
+C:\Users\KAVYA SRI\Dotnet Console Apps\Age Calculator\Age Calculator\bin\Debug\net8.0\Age Calculator.dll
+C:\Users\KAVYA SRI\Dotnet Console Apps\Age Calculator\Age Calculator\bin\Debug\net8.0\Age Calculator.pdb
+C:\Users\KAVYA SRI\Dotnet Console Apps\Age Calculator\Age Calculator\obj\Debug\net8.0\Age Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KAVYA SRI\Dotnet Console Apps\Age Calculator\Age Calculator\obj\Debug\net8.0\Age Calculator.AssemblyInfoInputs.cache
+C:\Users\KAVYA SRI\Dotnet Console Apps\Age Calculator\Age Calculator\obj\Debug\net8.0\Age Calculator.AssemblyInfo.cs
+C:\Users\KAVYA SRI\Dotnet Console Apps\Age Calculator\Age Calculator\obj\Debug\net8.0\Age Calculator.csproj.CoreCompileInputs.cache
+C:\Users\KAVYA SRI\Dotnet Console Apps\Age Calculator\Age Calculator\obj\Debug\net8.0\Age Calculator.dll
+C:\Users\KAVYA SRI\Dotnet Console Apps\Age Calculator\Age Calculator\obj\Debug\net8.0\refint\Age Calculator.dll
+C:\Users\KAVYA SRI\Dotnet Console Apps\Age Calculator\Age Calculator\obj\Debug\net8.0\Age Calculator.pdb
+C:\Users\KAVYA SRI\Dotnet Console Apps\Age Calculator\Age Calculator\obj\Debug\net8.0\Age Calculator.genruntimeconfig.cache
+C:\Users\KAVYA SRI\Dotnet Console Apps\Age Calculator\Age Calculator\obj\Debug\net8.0\ref\Age Calculator.dll
